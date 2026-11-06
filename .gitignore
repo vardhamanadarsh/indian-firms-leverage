@@ -1,0 +1,14 @@
+# Licensed Prowess data and derived datasets - do not publish
+*.txt
+*.dta
+*.csv
+*.xlsx
+
+# Stata logs and temp files
+*.log
+*.smcl
+*.gph
+
+# OS files
+.DS_Store
+Thumbs.db
